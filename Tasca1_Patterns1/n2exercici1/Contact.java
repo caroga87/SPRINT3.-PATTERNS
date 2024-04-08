@@ -1,6 +1,9 @@
 package SPRINT3_PATTERNS.Tasca1_Patterns1.n2exercici1;
 
 
+import SPRINT3_PATTERNS.Tasca1_Patterns1.n2exercici1.Address.Address;
+import SPRINT3_PATTERNS.Tasca1_Patterns1.n2exercici1.Telephone.Telephone;
+
 public class Contact {
     private static int nextId = 1;
     private int id;

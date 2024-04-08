@@ -1,6 +1,6 @@
-package SPRINT3_PATTERNS.Tasca1_Patterns1.n2exercici1;
+package SPRINT3_PATTERNS.Tasca1_Patterns1.n2exercici1.Telephone;
 
-public class Germany_Telephone implements Telephone{
+public class Germany_Telephone implements Telephone {
     private static final String COUNTRY_CODE= "+ 49";
     private int number;
 
